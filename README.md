@@ -1,2 +1,2 @@
-# Birthday-Surprise-App
-An app as a birthday gift
+# BirthDayGiftApp
+ An app as a birthday gift
